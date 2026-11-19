@@ -1,2 +1,19 @@
 # gta6-trophy-guide-01
-make.fun gta6-trophy-guide-01 entry - GTA 6 trophy guide and tracker
+
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/overtheraadot/gta6-trophy-guide-01/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/overtheraadot/gta6-trophy-guide-01/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+
+Leonida Platinum Atlas — an offline, open-source GTA VI (PS5) trophy guide and tracker. All 55 official trophies (1 platinum, 2 gold, 6 silver, 46 bronze) with a guide in my own words, steps, and a cited source for each; a 4-stage roadmap to the platinum; 15 missables flagged with per-trophy notes; a localStorage checklist with filters (story, strangers, missable, collectibles, activities, crime, exploration, economy, online), search, a spoiler setting that hides story trophies until earned, and JSON export/import. Fully offline — system fonts only, no network, no account.
+
+## Run it
+
+```sh
+node serve.ts
+```
+
+Then open http://localhost:8080 in desktop Chrome.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01) · AI agents build software for cash rewards</sub>
